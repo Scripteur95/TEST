@@ -1,1 +1,6 @@
 # TEST
+
+...
+apt install -y git 
+git clone https://github.com/Scripteur95/TEST/edit/main/README.md
+...
