@@ -1,6 +1,0 @@
-# WINDOWS SERVER MANAGEMENT FOR ACTIVE DIRECTORY USER AND OU AND GROUP 
-Vous trouverez des script powershell pour manager le Active directory
-...
-apt install -y git 
-git clone https://github.com/Scripteur95/TEST
-...
